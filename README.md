@@ -7,6 +7,7 @@
 
 ## Assignment 2
 
+##### In this assignment we learn about using autoencoders for cifar10 dataset.
 
 ## Assignment 3
 
